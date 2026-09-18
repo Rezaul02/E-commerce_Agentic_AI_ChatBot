@@ -1,0 +1,8 @@
+❌ pip is not available outside virtual environments
+
+💡 To use pip:
+   1. Create a virtual environment: python3.x -m venv [venv-projname]
+   2. Activate it: source [venv-projname]/bin/activate
+   3. Then use pip normally
+
+🛡️  This prevents accidental system-wide package installations
